@@ -4,5 +4,5 @@ workflow "sdlc" {
 }
 
 action "renovate" {
-  uses = "max/renovate-action"
+  uses = "max/renovate-action@master"
 }
