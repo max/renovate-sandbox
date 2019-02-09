@@ -1,5 +1,5 @@
 workflow "sdlc" {
-  on = "push"
+  on = "maintenance"
   resolves = "renovate"
 }
 
