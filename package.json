@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/max/renovate-sandbox#readme",
   "dependencies": {
-    "react": "^16.8.1"
+    "react": "^16.7.0"
   }
 }
